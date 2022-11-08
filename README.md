@@ -15,3 +15,5 @@ OG isn't just a CRUD app for email management - it's a colourful dashboard that 
 
 ## SSO
 OG uses your Google account for authentication so your login is securely handled by the google-auth OAuth servers. We do not handle your usernames or password in our backend in any way.
+
+## Since Netlify doesn't allow hosting private organization repositories and Vercel requires permission from the organization owner to deploy the app, we have created a new repository for our [final project](https://github.com/niharjoshi/OrganizeGmail.git)
